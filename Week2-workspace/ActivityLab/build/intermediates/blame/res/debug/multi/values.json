@@ -1,0 +1,220 @@
+[
+    {
+        "outputFile": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week2-workspace\\ActivityLab\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week2-workspace\\ActivityLab\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 48,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 53,
+                    "endOffset": 153
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week2-workspace\\ActivityLab\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 384,
+                        "endColumn": 53,
+                        "endOffset": 433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 158,
+                    "endColumn": 48,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week2-workspace\\ActivityLab\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endColumn": 48,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 50,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week2-workspace\\ActivityLab\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 50,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 56,
+                    "endOffset": 310
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week2-workspace\\ActivityLab\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 56,
+                        "endOffset": 208
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 315,
+                    "endColumn": 58,
+                    "endOffset": 369
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week2-workspace\\ActivityLab\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 325,
+                        "endColumn": 58,
+                        "endOffset": 379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 374,
+                    "endColumn": 56,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week2-workspace\\ActivityLab\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 268,
+                        "endColumn": 56,
+                        "endOffset": 320
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endColumn": 54,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week2-workspace\\ActivityLab\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 54,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 68,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week2-workspace\\ActivityLab\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 438,
+                        "endColumn": 68,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 841
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week2-workspace\\ActivityLab\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 846,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1001
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week2-workspace\\ActivityLab\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:3:5-39
+	android:versionName
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml
+		INJECTED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml
+		INJECTED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:8:9-35
+permission#course.labs.permissions.DANGEROUS_ACTIVITY_PERM
+ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:18:5-21:18
+	android:protectionLevel
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:20:9-44
+	android:name
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:19:9-71
+application
+ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:23:5-54:19
+	android:label
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:26:9-41
+	android:permission
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:28:9-77
+	android:allowBackup
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:25:9-45
+	android:theme
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:27:9-40
+activity#course.labs.dangerousapp.DangerousActivity
+ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:33:9-53:20
+	android:label
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:35:13-45
+	android:name
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:34:13-46
+intent-filter#android.intent.category.DEFAULT+course.labs.permissions.DANGEROUS_ACTIVITY
+ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:42:4-46:20
+action#course.labs.permissions.DANGEROUS_ACTIVITY
+ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:43:8-76
+	android:name
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:43:16-73
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:45:8-67
+	android:name
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:45:18-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\DangerousApp\AndroidManifest.xml:51:27-74

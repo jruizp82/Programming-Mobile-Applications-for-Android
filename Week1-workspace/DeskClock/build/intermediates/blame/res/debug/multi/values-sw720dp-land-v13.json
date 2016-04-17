@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\build\\intermediates\\res\\merged\\debug\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 879,
+                        "endColumn": 62,
+                        "endOffset": 937
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 58,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endColumn": 58,
+                        "endOffset": 996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endColumn": 56,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 821,
+                        "endColumn": 56,
+                        "endOffset": 873
+                    }
+                }
+            }
+        ]
+    }
+]

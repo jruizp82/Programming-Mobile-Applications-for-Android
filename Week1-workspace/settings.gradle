@@ -1,0 +1,6 @@
+include ':WikiNotes'
+include ':DeskClock'
+include ':SimpleCalcTest'
+include ':HelloAndroid'
+include ':TheAnswer'
+include ':SimpleCalc'

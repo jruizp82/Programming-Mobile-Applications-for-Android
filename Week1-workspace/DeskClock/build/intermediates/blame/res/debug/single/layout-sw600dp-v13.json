@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\three_keys_view.xml",
+        "source": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\layout-sw600dp\\three_keys_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\alarm_alert_fullscreen.xml",
+        "source": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\layout-sw600dp\\alarm_alert_fullscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\three_keys_view_ampm.xml",
+        "source": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\layout-sw600dp\\three_keys_view_ampm.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\set_alarm.xml",
+        "source": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\layout-sw600dp\\set_alarm.xml"
+    }
+]

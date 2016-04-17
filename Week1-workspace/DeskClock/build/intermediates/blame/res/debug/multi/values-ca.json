@@ -1,0 +1,3134 @@
+[
+    {
+        "outputFile": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\build\\intermediates\\res\\merged\\debug\\values-ca\\values-ca.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 11,
+                    "endColumn": 17,
+                    "endOffset": 1197
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 2,
+                        "startOffset": 3489,
+                        "endLine": 57,
+                        "endColumn": 17,
+                        "endOffset": 4629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1202,
+                    "endLine": 20,
+                    "endColumn": 17,
+                    "endOffset": 1653
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 2,
+                        "startOffset": 6517,
+                        "endLine": 91,
+                        "endColumn": 17,
+                        "endOffset": 6968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1658,
+                    "endLine": 302,
+                    "endColumn": 17,
+                    "endOffset": 17335
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\array.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 798,
+                        "endLine": 300,
+                        "endColumn": 17,
+                        "endOffset": 16475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 17340,
+                    "endLine": 306,
+                    "endColumn": 17,
+                    "endOffset": 17509
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 2,
+                        "startOffset": 15051,
+                        "endLine": 195,
+                        "endColumn": 17,
+                        "endOffset": 15220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 17514,
+                    "endLine": 318,
+                    "endColumn": 17,
+                    "endOffset": 18334
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 2,
+                        "startOffset": 13526,
+                        "endLine": 181,
+                        "endColumn": 17,
+                        "endOffset": 14346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 18339,
+                    "endLine": 324,
+                    "endColumn": 17,
+                    "endOffset": 18781
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 2,
+                        "startOffset": 3028,
+                        "endLine": 47,
+                        "endColumn": 17,
+                        "endOffset": 3486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 18786,
+                    "endLine": 410,
+                    "endColumn": 17,
+                    "endOffset": 23666
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 2,
+                        "startOffset": 16220,
+                        "endLine": 291,
+                        "endColumn": 17,
+                        "endOffset": 21100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 411,
+                    "startColumn": 4,
+                    "startOffset": 23671,
+                    "endLine": 415,
+                    "endColumn": 17,
+                    "endOffset": 23907
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 2,
+                        "startOffset": 7977,
+                        "endLine": 106,
+                        "endColumn": 17,
+                        "endOffset": 8213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 416,
+                    "startColumn": 4,
+                    "startOffset": 23912,
+                    "endLine": 419,
+                    "endColumn": 12,
+                    "endOffset": 24128
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 2,
+                        "startOffset": 12075,
+                        "endLine": 152,
+                        "endColumn": 12,
+                        "endOffset": 12295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 420,
+                    "startColumn": 4,
+                    "startOffset": 24133,
+                    "endLine": 423,
+                    "endColumn": 12,
+                    "endOffset": 24354
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 2,
+                        "startOffset": 12298,
+                        "endLine": 156,
+                        "endColumn": 12,
+                        "endOffset": 12523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 424,
+                    "startColumn": 4,
+                    "startOffset": 24359,
+                    "endLine": 427,
+                    "endColumn": 12,
+                    "endOffset": 24580
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 2,
+                        "startOffset": 12526,
+                        "endLine": 160,
+                        "endColumn": 12,
+                        "endOffset": 12751
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 428,
+                    "startColumn": 4,
+                    "startOffset": 24585,
+                    "endLine": 431,
+                    "endColumn": 12,
+                    "endOffset": 24844
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 318,
+                        "startColumn": 2,
+                        "startOffset": 23871,
+                        "endLine": 321,
+                        "endColumn": 12,
+                        "endOffset": 24130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 432,
+                    "startColumn": 4,
+                    "startOffset": 24849,
+                    "endLine": 435,
+                    "endColumn": 12,
+                    "endOffset": 25064
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 2,
+                        "startOffset": 5801,
+                        "endLine": 75,
+                        "endColumn": 12,
+                        "endOffset": 6020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 436,
+                    "startColumn": 4,
+                    "startOffset": 25069,
+                    "endLine": 439,
+                    "endColumn": 12,
+                    "endOffset": 25257
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 2,
+                        "startOffset": 6023,
+                        "endLine": 79,
+                        "endColumn": 12,
+                        "endOffset": 6211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 440,
+                    "startColumn": 4,
+                    "startOffset": 25262,
+                    "endLine": 443,
+                    "endColumn": 12,
+                    "endOffset": 25481
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 2,
+                        "startOffset": 14349,
+                        "endLine": 185,
+                        "endColumn": 12,
+                        "endOffset": 14572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 25486,
+                    "endColumn": 68,
+                    "endOffset": 25550
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\donottranslate.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 816,
+                        "endColumn": 68,
+                        "endOffset": 880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 445,
+                    "startColumn": 4,
+                    "startOffset": 25555,
+                    "endColumn": 86,
+                    "endOffset": 25637
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 964,
+                        "endColumn": 86,
+                        "endOffset": 1046
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 446,
+                    "startColumn": 4,
+                    "startOffset": 25642,
+                    "endColumn": 155,
+                    "endOffset": 25793
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 2495,
+                        "endColumn": 159,
+                        "endOffset": 2650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 447,
+                    "startColumn": 4,
+                    "startOffset": 25798,
+                    "endColumn": 87,
+                    "endOffset": 25881
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 2407,
+                        "endColumn": 87,
+                        "endOffset": 2490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 448,
+                    "startColumn": 4,
+                    "startOffset": 25886,
+                    "endColumn": 140,
+                    "endOffset": 26022
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2746,
+                        "endColumn": 144,
+                        "endOffset": 2886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 449,
+                    "startColumn": 4,
+                    "startOffset": 26027,
+                    "endColumn": 90,
+                    "endOffset": 26113
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2655,
+                        "endColumn": 90,
+                        "endOffset": 2741
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 450,
+                    "startColumn": 4,
+                    "startOffset": 26118,
+                    "endColumn": 134,
+                    "endOffset": 26248
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2891,
+                        "endColumn": 138,
+                        "endOffset": 3025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 451,
+                    "startColumn": 4,
+                    "startOffset": 26253,
+                    "endColumn": 89,
+                    "endOffset": 26338
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 8337,
+                        "endColumn": 89,
+                        "endOffset": 8422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 452,
+                    "startColumn": 4,
+                    "startOffset": 26343,
+                    "endColumn": 97,
+                    "endOffset": 26436
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 311,
+                        "startColumn": 4,
+                        "startOffset": 23174,
+                        "endColumn": 97,
+                        "endOffset": 23267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 453,
+                    "startColumn": 4,
+                    "startOffset": 26441,
+                    "endColumn": 129,
+                    "endOffset": 26566
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 9379,
+                        "endColumn": 129,
+                        "endOffset": 9504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 454,
+                    "startColumn": 4,
+                    "startOffset": 26571,
+                    "endColumn": 82,
+                    "endOffset": 26649
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 881,
+                        "endColumn": 82,
+                        "endOffset": 959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 455,
+                    "startColumn": 4,
+                    "startOffset": 26654,
+                    "endColumn": 123,
+                    "endOffset": 26773
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 7482,
+                        "endColumn": 127,
+                        "endOffset": 7605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 26778,
+                    "endColumn": 158,
+                    "endOffset": 26932
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 7610,
+                        "endColumn": 162,
+                        "endOffset": 7768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 457,
+                    "startColumn": 4,
+                    "startOffset": 26937,
+                    "endColumn": 105,
+                    "endOffset": 27038
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 7376,
+                        "endColumn": 105,
+                        "endOffset": 7477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 458,
+                    "startColumn": 4,
+                    "startOffset": 27043,
+                    "endColumn": 79,
+                    "endOffset": 27118
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 189,
+                        "startColumn": 4,
+                        "startOffset": 14815,
+                        "endColumn": 79,
+                        "endOffset": 14890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 459,
+                    "startColumn": 4,
+                    "startOffset": 27123,
+                    "endColumn": 75,
+                    "endOffset": 27194
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 14739,
+                        "endColumn": 75,
+                        "endOffset": 14810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 460,
+                    "startColumn": 4,
+                    "startOffset": 27199,
+                    "endColumn": 79,
+                    "endOffset": 27274
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2109,
+                        "endColumn": 79,
+                        "endOffset": 2184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 461,
+                    "startColumn": 4,
+                    "startOffset": 27279,
+                    "endColumn": 80,
+                    "endOffset": 27355
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 292,
+                        "startColumn": 4,
+                        "startOffset": 21105,
+                        "endColumn": 80,
+                        "endOffset": 21181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 462,
+                    "startColumn": 4,
+                    "startOffset": 27360,
+                    "endColumn": 75,
+                    "endOffset": 27431
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 310,
+                        "startColumn": 4,
+                        "startOffset": 23098,
+                        "endColumn": 75,
+                        "endOffset": 23169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 463,
+                    "startColumn": 4,
+                    "startOffset": 27436,
+                    "endColumn": 77,
+                    "endOffset": 27509
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2031,
+                        "endColumn": 77,
+                        "endOffset": 2104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 464,
+                    "startColumn": 4,
+                    "startOffset": 27514,
+                    "endColumn": 95,
+                    "endOffset": 27605
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 7190,
+                        "endColumn": 95,
+                        "endOffset": 7281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 465,
+                    "startColumn": 4,
+                    "startOffset": 27610,
+                    "endColumn": 116,
+                    "endOffset": 27722
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 316,
+                        "startColumn": 4,
+                        "startOffset": 23663,
+                        "endColumn": 120,
+                        "endOffset": 23779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 466,
+                    "startColumn": 4,
+                    "startOffset": 27727,
+                    "endColumn": 79,
+                    "endOffset": 27802
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2189,
+                        "endColumn": 79,
+                        "endOffset": 2264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 467,
+                    "startColumn": 4,
+                    "startOffset": 27807,
+                    "endColumn": 115,
+                    "endOffset": 27918
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 302,
+                        "startColumn": 4,
+                        "startOffset": 22233,
+                        "endColumn": 115,
+                        "endOffset": 22344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 468,
+                    "startColumn": 4,
+                    "startOffset": 27923,
+                    "endColumn": 89,
+                    "endOffset": 28008
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 5464,
+                        "endColumn": 89,
+                        "endOffset": 5549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 469,
+                    "startColumn": 4,
+                    "startOffset": 28013,
+                    "endColumn": 76,
+                    "endOffset": 28085
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 804,
+                        "endColumn": 76,
+                        "endOffset": 876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 470,
+                    "startColumn": 4,
+                    "startOffset": 28090,
+                    "endColumn": 80,
+                    "endOffset": 28166
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 6438,
+                        "endColumn": 80,
+                        "endOffset": 6514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 471,
+                    "startColumn": 4,
+                    "startOffset": 28171,
+                    "endColumn": 116,
+                    "endOffset": 28283
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 6317,
+                        "endColumn": 120,
+                        "endOffset": 6433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 472,
+                    "startColumn": 4,
+                    "startOffset": 28288,
+                    "endColumn": 100,
+                    "endOffset": 28384
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 6216,
+                        "endColumn": 100,
+                        "endOffset": 6312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 473,
+                    "startColumn": 4,
+                    "startOffset": 28389,
+                    "endColumn": 115,
+                    "endOffset": 28500
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 15225,
+                        "endColumn": 115,
+                        "endOffset": 15336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 474,
+                    "startColumn": 4,
+                    "startOffset": 28505,
+                    "endColumn": 185,
+                    "endOffset": 28686
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 15341,
+                        "endColumn": 185,
+                        "endOffset": 15522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 475,
+                    "startColumn": 4,
+                    "startOffset": 28691,
+                    "endColumn": 141,
+                    "endOffset": 28828
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 9084,
+                        "endColumn": 149,
+                        "endOffset": 9229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 476,
+                    "startColumn": 4,
+                    "startOffset": 28833,
+                    "endColumn": 79,
+                    "endOffset": 28908
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 10200,
+                        "endColumn": 79,
+                        "endOffset": 10275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 477,
+                    "startColumn": 4,
+                    "startOffset": 28913,
+                    "endColumn": 79,
+                    "endOffset": 28988
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 10280,
+                        "endColumn": 79,
+                        "endOffset": 10355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 478,
+                    "startColumn": 4,
+                    "startOffset": 28993,
+                    "endColumn": 81,
+                    "endOffset": 29070
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 10360,
+                        "endColumn": 81,
+                        "endOffset": 10437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 479,
+                    "startColumn": 4,
+                    "startOffset": 29075,
+                    "endColumn": 87,
+                    "endOffset": 29158
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 14651,
+                        "endColumn": 87,
+                        "endOffset": 14734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 480,
+                    "startColumn": 4,
+                    "startOffset": 29163,
+                    "endColumn": 112,
+                    "endOffset": 29271
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 323,
+                        "startColumn": 4,
+                        "startOffset": 24255,
+                        "endColumn": 112,
+                        "endOffset": 24363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 481,
+                    "startColumn": 4,
+                    "startOffset": 29276,
+                    "endColumn": 93,
+                    "endOffset": 29365
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5370,
+                        "endColumn": 93,
+                        "endOffset": 5459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 482,
+                    "startColumn": 4,
+                    "startOffset": 29370,
+                    "endColumn": 81,
+                    "endOffset": 29447
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 190,
+                        "startColumn": 4,
+                        "startOffset": 14895,
+                        "endColumn": 81,
+                        "endOffset": 14972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 483,
+                    "startColumn": 4,
+                    "startOffset": 29452,
+                    "endColumn": 75,
+                    "endOffset": 29523
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 14977,
+                        "endColumn": 75,
+                        "endOffset": 15048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 484,
+                    "startColumn": 4,
+                    "startOffset": 29528,
+                    "endColumn": 90,
+                    "endOffset": 29614
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 309,
+                        "startColumn": 4,
+                        "startOffset": 23007,
+                        "endColumn": 90,
+                        "endOffset": 23093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 485,
+                    "startColumn": 4,
+                    "startOffset": 29619,
+                    "endColumn": 94,
+                    "endOffset": 29709
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 9755,
+                        "endColumn": 94,
+                        "endOffset": 9845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 486,
+                    "startColumn": 4,
+                    "startOffset": 29714,
+                    "endColumn": 67,
+                    "endOffset": 29777
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4634,
+                        "endColumn": 67,
+                        "endOffset": 4697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 487,
+                    "startColumn": 4,
+                    "startOffset": 29782,
+                    "endColumn": 70,
+                    "endOffset": 29848
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5299,
+                        "endColumn": 70,
+                        "endOffset": 5365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 488,
+                    "startColumn": 4,
+                    "startOffset": 29853,
+                    "endColumn": 95,
+                    "endOffset": 29944
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 4702,
+                        "endColumn": 99,
+                        "endOffset": 4797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 489,
+                    "startColumn": 4,
+                    "startOffset": 29949,
+                    "endColumn": 78,
+                    "endOffset": 30023
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1865,
+                        "endColumn": 78,
+                        "endOffset": 1939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 490,
+                    "startColumn": 4,
+                    "startOffset": 30028,
+                    "endColumn": 118,
+                    "endOffset": 30142
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 8218,
+                        "endColumn": 118,
+                        "endOffset": 8332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 491,
+                    "startColumn": 4,
+                    "startOffset": 30147,
+                    "endColumn": 74,
+                    "endOffset": 30217
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 7115,
+                        "endColumn": 74,
+                        "endOffset": 7185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 492,
+                    "startColumn": 4,
+                    "startOffset": 30222,
+                    "endColumn": 90,
+                    "endOffset": 30308
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1238,
+                        "endColumn": 90,
+                        "endOffset": 1324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 493,
+                    "startColumn": 4,
+                    "startOffset": 30313,
+                    "endColumn": 108,
+                    "endOffset": 30417
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1509,
+                        "endColumn": 108,
+                        "endOffset": 1613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 494,
+                    "startColumn": 4,
+                    "startOffset": 30422,
+                    "endColumn": 88,
+                    "endOffset": 30506
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 317,
+                        "startColumn": 4,
+                        "startOffset": 23784,
+                        "endColumn": 88,
+                        "endOffset": 23868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 495,
+                    "startColumn": 4,
+                    "startOffset": 30511,
+                    "endColumn": 126,
+                    "endOffset": 30633
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 299,
+                        "startColumn": 4,
+                        "startOffset": 21868,
+                        "endColumn": 126,
+                        "endOffset": 21990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 496,
+                    "startColumn": 4,
+                    "startOffset": 30638,
+                    "endColumn": 134,
+                    "endOffset": 30768
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 297,
+                        "startColumn": 4,
+                        "startOffset": 21610,
+                        "endColumn": 134,
+                        "endOffset": 21740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 497,
+                    "startColumn": 4,
+                    "startOffset": 30773,
+                    "endColumn": 130,
+                    "endOffset": 30899
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 296,
+                        "startColumn": 4,
+                        "startOffset": 21479,
+                        "endColumn": 130,
+                        "endOffset": 21605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 498,
+                    "startColumn": 4,
+                    "startOffset": 30904,
+                    "endColumn": 122,
+                    "endOffset": 31022
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 298,
+                        "startColumn": 4,
+                        "startOffset": 21745,
+                        "endColumn": 122,
+                        "endOffset": 21863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 499,
+                    "startColumn": 4,
+                    "startOffset": 31027,
+                    "endColumn": 114,
+                    "endOffset": 31137
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 8802,
+                        "endColumn": 114,
+                        "endOffset": 8912
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 500,
+                    "startColumn": 4,
+                    "startOffset": 31142,
+                    "endColumn": 89,
+                    "endOffset": 31227
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 325,
+                        "startColumn": 4,
+                        "startOffset": 24460,
+                        "endColumn": 89,
+                        "endOffset": 24545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 501,
+                    "startColumn": 4,
+                    "startOffset": 31232,
+                    "endColumn": 91,
+                    "endOffset": 31319
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1417,
+                        "endColumn": 91,
+                        "endOffset": 1504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 502,
+                    "startColumn": 4,
+                    "startOffset": 31324,
+                    "endColumn": 66,
+                    "endOffset": 31386
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 6973,
+                        "endColumn": 66,
+                        "endOffset": 7035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 503,
+                    "startColumn": 4,
+                    "startOffset": 31391,
+                    "endColumn": 87,
+                    "endOffset": 31474
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1329,
+                        "endColumn": 87,
+                        "endOffset": 1412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 504,
+                    "startColumn": 4,
+                    "startOffset": 31479,
+                    "endColumn": 76,
+                    "endOffset": 31551
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 5156,
+                        "endColumn": 76,
+                        "endOffset": 5228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 505,
+                    "startColumn": 4,
+                    "startOffset": 31556,
+                    "endColumn": 87,
+                    "endOffset": 31639
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 308,
+                        "startColumn": 4,
+                        "startOffset": 22919,
+                        "endColumn": 87,
+                        "endOffset": 23002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 506,
+                    "startColumn": 4,
+                    "startOffset": 31644,
+                    "endColumn": 67,
+                    "endOffset": 31707
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\donottranslate.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 67,
+                        "endOffset": 1012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 507,
+                    "startColumn": 4,
+                    "startOffset": 31712,
+                    "endColumn": 92,
+                    "endOffset": 31800
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 8427,
+                        "endColumn": 92,
+                        "endOffset": 8515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 508,
+                    "startColumn": 4,
+                    "startOffset": 31805,
+                    "endColumn": 68,
+                    "endOffset": 31869
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 5554,
+                        "endColumn": 68,
+                        "endOffset": 5618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 509,
+                    "startColumn": 4,
+                    "startOffset": 31874,
+                    "endColumn": 86,
+                    "endOffset": 31956
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1706,
+                        "endColumn": 86,
+                        "endOffset": 1788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 510,
+                    "startColumn": 4,
+                    "startOffset": 31961,
+                    "endColumn": 101,
+                    "endOffset": 32058
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 8700,
+                        "endColumn": 101,
+                        "endOffset": 8797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 511,
+                    "startColumn": 4,
+                    "startOffset": 32063,
+                    "endColumn": 73,
+                    "endOffset": 32132
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 14577,
+                        "endColumn": 73,
+                        "endOffset": 14646
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 512,
+                    "startColumn": 4,
+                    "startOffset": 32137,
+                    "endColumn": 91,
+                    "endOffset": 32224
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 15527,
+                        "endColumn": 91,
+                        "endOffset": 15614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 513,
+                    "startColumn": 4,
+                    "startOffset": 32229,
+                    "endColumn": 96,
+                    "endOffset": 32321
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 15619,
+                        "endColumn": 96,
+                        "endOffset": 15711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 514,
+                    "startColumn": 4,
+                    "startOffset": 32326,
+                    "endColumn": 69,
+                    "endOffset": 32391
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4802,
+                        "endColumn": 69,
+                        "endOffset": 4867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 515,
+                    "startColumn": 4,
+                    "startOffset": 32396,
+                    "endColumn": 98,
+                    "endOffset": 32490
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 4872,
+                        "endColumn": 102,
+                        "endOffset": 4970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 516,
+                    "startColumn": 4,
+                    "startOffset": 32495,
+                    "endColumn": 71,
+                    "endOffset": 32562
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 11193,
+                        "endColumn": 71,
+                        "endOffset": 11260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 517,
+                    "startColumn": 4,
+                    "startOffset": 32567,
+                    "endColumn": 87,
+                    "endOffset": 32650
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 11412,
+                        "endColumn": 87,
+                        "endOffset": 11495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 518,
+                    "startColumn": 4,
+                    "startOffset": 32655,
+                    "endColumn": 71,
+                    "endOffset": 32722
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1793,
+                        "endColumn": 71,
+                        "endOffset": 1860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 519,
+                    "startColumn": 4,
+                    "startOffset": 32727,
+                    "endColumn": 84,
+                    "endOffset": 32807
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 8917,
+                        "endColumn": 84,
+                        "endOffset": 8997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 520,
+                    "startColumn": 4,
+                    "startOffset": 32812,
+                    "endColumn": 64,
+                    "endOffset": 32872
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 315,
+                        "startColumn": 4,
+                        "startOffset": 23590,
+                        "endColumn": 72,
+                        "endOffset": 23658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 521,
+                    "startColumn": 4,
+                    "startOffset": 32877,
+                    "endColumn": 101,
+                    "endOffset": 32974
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 9509,
+                        "endColumn": 101,
+                        "endOffset": 9606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 522,
+                    "startColumn": 4,
+                    "startOffset": 32979,
+                    "endColumn": 77,
+                    "endOffset": 33052
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 10038,
+                        "endColumn": 77,
+                        "endOffset": 10111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 523,
+                    "startColumn": 4,
+                    "startOffset": 33057,
+                    "endColumn": 96,
+                    "endOffset": 33149
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1051,
+                        "endColumn": 96,
+                        "endOffset": 1143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 524,
+                    "startColumn": 4,
+                    "startOffset": 33154,
+                    "endColumn": 89,
+                    "endOffset": 33239
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 89,
+                        "endOffset": 1233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 525,
+                    "startColumn": 4,
+                    "startOffset": 33244,
+                    "endColumn": 78,
+                    "endOffset": 33318
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 10532,
+                        "endColumn": 78,
+                        "endOffset": 10606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 526,
+                    "startColumn": 4,
+                    "startOffset": 33323,
+                    "endColumn": 91,
+                    "endOffset": 33410
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 10611,
+                        "endColumn": 91,
+                        "endOffset": 10698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 527,
+                    "startColumn": 4,
+                    "startOffset": 33415,
+                    "endColumn": 89,
+                    "endOffset": 33500
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 10442,
+                        "endColumn": 89,
+                        "endOffset": 10527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 528,
+                    "startColumn": 4,
+                    "startOffset": 33505,
+                    "endColumn": 83,
+                    "endOffset": 33584
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 10116,
+                        "endColumn": 83,
+                        "endOffset": 10195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 529,
+                    "startColumn": 4,
+                    "startOffset": 33589,
+                    "endColumn": 82,
+                    "endOffset": 33667
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 9955,
+                        "endColumn": 82,
+                        "endOffset": 10033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 530,
+                    "startColumn": 4,
+                    "startOffset": 33672,
+                    "endColumn": 72,
+                    "endOffset": 33740
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4975,
+                        "endColumn": 72,
+                        "endOffset": 5043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 531,
+                    "startColumn": 4,
+                    "startOffset": 33745,
+                    "endColumn": 103,
+                    "endOffset": 33844
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5048,
+                        "endColumn": 107,
+                        "endOffset": 5151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 532,
+                    "startColumn": 4,
+                    "startOffset": 33849,
+                    "endColumn": 73,
+                    "endOffset": 33918
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 11265,
+                        "endColumn": 73,
+                        "endOffset": 11334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 533,
+                    "startColumn": 4,
+                    "startOffset": 33923,
+                    "endColumn": 89,
+                    "endOffset": 34008
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 11500,
+                        "endColumn": 89,
+                        "endOffset": 11585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 534,
+                    "startColumn": 4,
+                    "startOffset": 34013,
+                    "endColumn": 89,
+                    "endOffset": 34098
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 8520,
+                        "endColumn": 89,
+                        "endOffset": 8605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 535,
+                    "startColumn": 4,
+                    "startOffset": 34103,
+                    "endColumn": 65,
+                    "endOffset": 34164
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 5233,
+                        "endColumn": 65,
+                        "endOffset": 5294
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 536,
+                    "startColumn": 4,
+                    "startOffset": 34169,
+                    "endColumn": 130,
+                    "endOffset": 34295
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 314,
+                        "startColumn": 4,
+                        "startOffset": 23455,
+                        "endColumn": 134,
+                        "endOffset": 23585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 537,
+                    "startColumn": 4,
+                    "startOffset": 34300,
+                    "endColumn": 135,
+                    "endOffset": 34431
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 304,
+                        "startColumn": 4,
+                        "startOffset": 22470,
+                        "endColumn": 139,
+                        "endOffset": 22605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 538,
+                    "startColumn": 4,
+                    "startOffset": 34436,
+                    "endColumn": 118,
+                    "endOffset": 34550
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 307,
+                        "startColumn": 4,
+                        "startOffset": 22800,
+                        "endColumn": 118,
+                        "endOffset": 22914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 539,
+                    "startColumn": 4,
+                    "startOffset": 34555,
+                    "endColumn": 87,
+                    "endOffset": 34638
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 306,
+                        "startColumn": 4,
+                        "startOffset": 22712,
+                        "endColumn": 87,
+                        "endOffset": 22795
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 540,
+                    "startColumn": 4,
+                    "startOffset": 34643,
+                    "endColumn": 89,
+                    "endOffset": 34728
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 8610,
+                        "endColumn": 89,
+                        "endOffset": 8695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 541,
+                    "startColumn": 4,
+                    "startOffset": 34733,
+                    "endColumn": 74,
+                    "endOffset": 34803
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 7040,
+                        "endColumn": 74,
+                        "endOffset": 7110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 542,
+                    "startColumn": 4,
+                    "startOffset": 34808,
+                    "endColumn": 69,
+                    "endOffset": 34873
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2269,
+                        "endColumn": 69,
+                        "endOffset": 2334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 543,
+                    "startColumn": 4,
+                    "startOffset": 34878,
+                    "endColumn": 81,
+                    "endOffset": 34955
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 9002,
+                        "endColumn": 81,
+                        "endOffset": 9079
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 544,
+                    "startColumn": 4,
+                    "startOffset": 34960,
+                    "endColumn": 101,
+                    "endOffset": 35057
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 305,
+                        "startColumn": 4,
+                        "startOffset": 22610,
+                        "endColumn": 101,
+                        "endOffset": 22707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 545,
+                    "startColumn": 4,
+                    "startOffset": 35062,
+                    "endColumn": 72,
+                    "endOffset": 35130
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 11339,
+                        "endColumn": 72,
+                        "endOffset": 11407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 546,
+                    "startColumn": 4,
+                    "startOffset": 35135,
+                    "endColumn": 90,
+                    "endOffset": 35221
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 11590,
+                        "endColumn": 90,
+                        "endOffset": 11676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 547,
+                    "startColumn": 4,
+                    "startOffset": 35226,
+                    "endColumn": 81,
+                    "endOffset": 35303
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 293,
+                        "startColumn": 4,
+                        "startOffset": 21186,
+                        "endColumn": 81,
+                        "endOffset": 21263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 548,
+                    "startColumn": 4,
+                    "startOffset": 35308,
+                    "endColumn": 86,
+                    "endOffset": 35390
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1944,
+                        "endColumn": 86,
+                        "endOffset": 2026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 549,
+                    "startColumn": 4,
+                    "startOffset": 35395,
+                    "endColumn": 79,
+                    "endOffset": 35470
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 5623,
+                        "endColumn": 79,
+                        "endOffset": 5698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 550,
+                    "startColumn": 4,
+                    "startOffset": 35475,
+                    "endColumn": 87,
+                    "endOffset": 35558
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1618,
+                        "endColumn": 87,
+                        "endOffset": 1701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 551,
+                    "startColumn": 4,
+                    "startOffset": 35563,
+                    "endColumn": 89,
+                    "endOffset": 35648
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 7286,
+                        "endColumn": 89,
+                        "endOffset": 7371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 552,
+                    "startColumn": 4,
+                    "startOffset": 35653,
+                    "endColumn": 65,
+                    "endOffset": 35714
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 312,
+                        "startColumn": 4,
+                        "startOffset": 23272,
+                        "endColumn": 65,
+                        "endOffset": 23333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 553,
+                    "startColumn": 4,
+                    "startOffset": 35719,
+                    "endColumn": 99,
+                    "endOffset": 35814
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 5703,
+                        "endColumn": 99,
+                        "endOffset": 5798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 554,
+                    "startColumn": 4,
+                    "startOffset": 35819,
+                    "endColumn": 133,
+                    "endOffset": 35948
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 294,
+                        "startColumn": 4,
+                        "startOffset": 21268,
+                        "endColumn": 133,
+                        "endOffset": 21397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 555,
+                    "startColumn": 4,
+                    "startOffset": 35953,
+                    "endColumn": 77,
+                    "endOffset": 36026
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 10945,
+                        "endColumn": 77,
+                        "endOffset": 11018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 556,
+                    "startColumn": 4,
+                    "startOffset": 36031,
+                    "endColumn": 120,
+                    "endOffset": 36147
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 11952,
+                        "endColumn": 124,
+                        "endOffset": 12072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 557,
+                    "startColumn": 4,
+                    "startOffset": 36152,
+                    "endColumn": 84,
+                    "endOffset": 36232
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 11023,
+                        "endColumn": 84,
+                        "endOffset": 11103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 558,
+                    "startColumn": 4,
+                    "startOffset": 36237,
+                    "endColumn": 81,
+                    "endOffset": 36314
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 10703,
+                        "endColumn": 81,
+                        "endOffset": 10780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 559,
+                    "startColumn": 4,
+                    "startOffset": 36319,
+                    "endColumn": 84,
+                    "endOffset": 36399
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 11108,
+                        "endColumn": 84,
+                        "endOffset": 11188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 560,
+                    "startColumn": 4,
+                    "startOffset": 36404,
+                    "endColumn": 87,
+                    "endOffset": 36487
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 11864,
+                        "endColumn": 87,
+                        "endOffset": 11947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 561,
+                    "startColumn": 4,
+                    "startOffset": 36492,
+                    "endColumn": 113,
+                    "endOffset": 36601
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 11746,
+                        "endColumn": 117,
+                        "endOffset": 11859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 562,
+                    "startColumn": 4,
+                    "startOffset": 36606,
+                    "endColumn": 80,
+                    "endOffset": 36682
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 10785,
+                        "endColumn": 80,
+                        "endOffset": 10861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 563,
+                    "startColumn": 4,
+                    "startOffset": 36687,
+                    "endColumn": 78,
+                    "endOffset": 36761
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 10866,
+                        "endColumn": 78,
+                        "endOffset": 10940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 564,
+                    "startColumn": 4,
+                    "startOffset": 36766,
+                    "endColumn": 76,
+                    "endOffset": 36838
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 295,
+                        "startColumn": 4,
+                        "startOffset": 21402,
+                        "endColumn": 76,
+                        "endOffset": 21474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 565,
+                    "startColumn": 4,
+                    "startOffset": 36843,
+                    "endColumn": 67,
+                    "endOffset": 36906
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 2339,
+                        "endColumn": 67,
+                        "endOffset": 2402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 566,
+                    "startColumn": 4,
+                    "startOffset": 36911,
+                    "endColumn": 82,
+                    "endOffset": 36989
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 16056,
+                        "endColumn": 82,
+                        "endOffset": 16134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 567,
+                    "startColumn": 4,
+                    "startOffset": 36994,
+                    "endColumn": 82,
+                    "endOffset": 37072
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 16139,
+                        "endColumn": 82,
+                        "endOffset": 16217
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 568,
+                    "startColumn": 4,
+                    "startOffset": 37077,
+                    "endColumn": 83,
+                    "endOffset": 37156
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 15972,
+                        "endColumn": 83,
+                        "endOffset": 16051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 569,
+                    "startColumn": 4,
+                    "startOffset": 37161,
+                    "endColumn": 86,
+                    "endOffset": 37243
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 15716,
+                        "endColumn": 86,
+                        "endOffset": 15798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 570,
+                    "startColumn": 4,
+                    "startOffset": 37248,
+                    "endColumn": 81,
+                    "endOffset": 37325
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 4,
+                        "startOffset": 15803,
+                        "endColumn": 81,
+                        "endOffset": 15880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 571,
+                    "startColumn": 4,
+                    "startOffset": 37330,
+                    "endColumn": 86,
+                    "endOffset": 37412
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 15885,
+                        "endColumn": 86,
+                        "endOffset": 15967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 572,
+                    "startColumn": 4,
+                    "startOffset": 37417,
+                    "endColumn": 94,
+                    "endOffset": 37507
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 12756,
+                        "endColumn": 94,
+                        "endOffset": 12846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 573,
+                    "startColumn": 4,
+                    "startOffset": 37512,
+                    "endColumn": 80,
+                    "endOffset": 37588
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 167,
+                        "startColumn": 4,
+                        "startOffset": 13254,
+                        "endColumn": 80,
+                        "endOffset": 13330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 574,
+                    "startColumn": 4,
+                    "startOffset": 37593,
+                    "endColumn": 80,
+                    "endOffset": 37669
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 163,
+                        "startColumn": 4,
+                        "startOffset": 12928,
+                        "endColumn": 80,
+                        "endOffset": 13004
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 575,
+                    "startColumn": 4,
+                    "startOffset": 37674,
+                    "endColumn": 119,
+                    "endOffset": 37789
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 322,
+                        "startColumn": 4,
+                        "startOffset": 24135,
+                        "endColumn": 119,
+                        "endOffset": 24250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 576,
+                    "startColumn": 4,
+                    "startOffset": 37794,
+                    "endColumn": 96,
+                    "endOffset": 37886
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 13431,
+                        "endColumn": 96,
+                        "endOffset": 13523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 577,
+                    "startColumn": 4,
+                    "startOffset": 37891,
+                    "endColumn": 88,
+                    "endOffset": 37975
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 13009,
+                        "endColumn": 88,
+                        "endOffset": 13093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 578,
+                    "startColumn": 4,
+                    "startOffset": 37980,
+                    "endColumn": 80,
+                    "endOffset": 38056
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 166,
+                        "startColumn": 4,
+                        "startOffset": 13173,
+                        "endColumn": 80,
+                        "endOffset": 13249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 579,
+                    "startColumn": 4,
+                    "startOffset": 38061,
+                    "endColumn": 143,
+                    "endOffset": 38200
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 9611,
+                        "endColumn": 143,
+                        "endOffset": 9750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 580,
+                    "startColumn": 4,
+                    "startOffset": 38205,
+                    "endColumn": 76,
+                    "endOffset": 38277
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 12851,
+                        "endColumn": 76,
+                        "endOffset": 12923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 581,
+                    "startColumn": 4,
+                    "startOffset": 38282,
+                    "endColumn": 74,
+                    "endOffset": 38352
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 13098,
+                        "endColumn": 74,
+                        "endOffset": 13168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 582,
+                    "startColumn": 4,
+                    "startOffset": 38357,
+                    "endColumn": 101,
+                    "endOffset": 38454
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 300,
+                        "startColumn": 4,
+                        "startOffset": 21995,
+                        "endColumn": 101,
+                        "endOffset": 22092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 583,
+                    "startColumn": 4,
+                    "startOffset": 38459,
+                    "endColumn": 95,
+                    "endOffset": 38550
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 13335,
+                        "endColumn": 95,
+                        "endOffset": 13426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 584,
+                    "startColumn": 4,
+                    "startOffset": 38555,
+                    "endColumn": 116,
+                    "endOffset": 38667
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 303,
+                        "startColumn": 4,
+                        "startOffset": 22349,
+                        "endColumn": 120,
+                        "endOffset": 22465
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 585,
+                    "startColumn": 4,
+                    "startOffset": 38672,
+                    "endColumn": 131,
+                    "endOffset": 38799
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 301,
+                        "startColumn": 4,
+                        "startOffset": 22097,
+                        "endColumn": 135,
+                        "endOffset": 22228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 586,
+                    "startColumn": 4,
+                    "startOffset": 38804,
+                    "endColumn": 103,
+                    "endOffset": 38903
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 7875,
+                        "endColumn": 103,
+                        "endOffset": 7974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 587,
+                    "startColumn": 4,
+                    "startOffset": 38908,
+                    "endColumn": 101,
+                    "endOffset": 39005
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 7773,
+                        "endColumn": 101,
+                        "endOffset": 7870
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 588,
+                    "startColumn": 4,
+                    "startOffset": 39010,
+                    "endColumn": 144,
+                    "endOffset": 39150
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 9234,
+                        "endColumn": 144,
+                        "endOffset": 9374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 589,
+                    "startColumn": 4,
+                    "startOffset": 39155,
+                    "endColumn": 91,
+                    "endOffset": 39242
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 324,
+                        "startColumn": 4,
+                        "startOffset": 24368,
+                        "endColumn": 91,
+                        "endOffset": 24455
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 590,
+                    "startColumn": 4,
+                    "startOffset": 39247,
+                    "endColumn": 112,
+                    "endOffset": 39355
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 313,
+                        "startColumn": 4,
+                        "startOffset": 23338,
+                        "endColumn": 116,
+                        "endOffset": 23450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 591,
+                    "startColumn": 4,
+                    "startOffset": 39360,
+                    "endColumn": 64,
+                    "endOffset": 39420
+                },
+                "from": {
+                    "file": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\values-ca\\strings.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 11681,
+                        "endColumn": 64,
+                        "endOffset": 11741
+                    }
+                }
+            }
+        ]
+    }
+]

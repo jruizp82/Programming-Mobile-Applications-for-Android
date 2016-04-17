@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DeskClock/DeskClock.iml" filepath="$PROJECT_DIR$/DeskClock/DeskClock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloAndroid/HelloAndroid.iml" filepath="$PROJECT_DIR$/HelloAndroid/HelloAndroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleCalc/SimpleCalc.iml" filepath="$PROJECT_DIR$/SimpleCalc/SimpleCalc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleCalcTest/SimpleCalcTest.iml" filepath="$PROJECT_DIR$/SimpleCalcTest/SimpleCalcTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheAnswer/TheAnswer.iml" filepath="$PROJECT_DIR$/TheAnswer/TheAnswer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week1-workspace.iml" filepath="$PROJECT_DIR$/Week1-workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WikiNotes/WikiNotes.iml" filepath="$PROJECT_DIR$/WikiNotes/WikiNotes.iml" />
+    </modules>
+  </component>
+</project>

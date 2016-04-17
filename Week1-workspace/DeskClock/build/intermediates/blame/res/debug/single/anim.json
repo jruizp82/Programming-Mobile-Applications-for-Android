@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\build\\intermediates\\res\\merged\\debug\\anim\\unhide.xml",
+        "source": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\anim\\unhide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\build\\intermediates\\res\\merged\\debug\\anim\\dim.xml",
+        "source": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\anim\\dim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\build\\intermediates\\res\\merged\\debug\\anim\\undim.xml",
+        "source": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\anim\\undim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\build\\intermediates\\res\\merged\\debug\\anim\\hide.xml",
+        "source": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\anim\\hide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\build\\intermediates\\res\\merged\\debug\\anim\\undim_instant.xml",
+        "source": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\anim\\undim_instant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\build\\intermediates\\res\\merged\\debug\\anim\\unhide_instant.xml",
+        "source": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\anim\\unhide_instant.xml"
+    },
+    {
+        "merged": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\build\\intermediates\\res\\merged\\debug\\anim\\dim_instant.xml",
+        "source": "C:\\Users\\Ruiz\\GIT\\Android\\Programming Mobile Applications for Android Handheld Systems\\Week1-workspace\\DeskClock\\res\\anim\\dim_instant.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NotificationsLab/NotificationsLab.iml" filepath="$PROJECT_DIR$/NotificationsLab/NotificationsLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotificationsLabTest/NotificationsLabTest.iml" filepath="$PROJECT_DIR$/NotificationsLabTest/NotificationsLabTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week6-workspace.iml" filepath="$PROJECT_DIR$/Week6-workspace.iml" />
+    </modules>
+  </component>
+</project>

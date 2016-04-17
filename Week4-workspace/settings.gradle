@@ -1,0 +1,2 @@
+include ':UILabsTest'
+include ':UILabs'

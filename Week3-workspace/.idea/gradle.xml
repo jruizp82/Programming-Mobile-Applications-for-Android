@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\Program Files\Android\Android Studio\gradle\gradle-2.8" />
+        <option name="gradleJvm" value="1.8" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/DangerousApp" />
+            <option value="$PROJECT_DIR$/FragmentsLab" />
+            <option value="$PROJECT_DIR$/FragmentsLabTestPhone" />
+            <option value="$PROJECT_DIR$/FragmentsLabTestTablet" />
+            <option value="$PROJECT_DIR$/IntentsLab" />
+            <option value="$PROJECT_DIR$/IntentsLabTest" />
+            <option value="$PROJECT_DIR$/MyBrowser" />
+            <option value="$PROJECT_DIR$/PermissionsLab" />
+            <option value="$PROJECT_DIR$/PermissionsLabTest" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

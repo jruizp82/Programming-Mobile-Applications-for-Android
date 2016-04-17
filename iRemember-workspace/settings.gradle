@@ -1,0 +1,2 @@
+include ':iRemember'
+include ':iRememberContentProvider'

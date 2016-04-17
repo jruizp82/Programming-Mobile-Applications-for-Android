@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\PermissionsLab\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week3-workspace\PermissionsLab\build\intermediates\pre-dexed\debug\android-support-v4_601f663f91b0089dfe61662e0b43078d8ec46e4e.jar" />
+    </item>
+
+</items>

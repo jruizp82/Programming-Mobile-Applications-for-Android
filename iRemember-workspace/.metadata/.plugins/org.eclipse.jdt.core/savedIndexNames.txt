@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\iRemember-workspace\.metadata\.plugins\org.eclipse.jdt.core
+2276485758.index
+3217683821.index
+3142826873.index
+2654486602.index

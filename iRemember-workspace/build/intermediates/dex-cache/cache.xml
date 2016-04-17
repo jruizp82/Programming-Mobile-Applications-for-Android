@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\iRemember-workspace\iRemember\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4a6be13368bb64c5a0b0460632d228a1a915f58f">
+        <dex dex="C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\iRemember-workspace\iRemember\build\intermediates\pre-dexed\debug\android-support-v4_e94fc145394cec6e718afb0f43cc406d15acd075.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\iRemember-workspace\iRemember\libs\slf4j-api-1.7.5.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="04a1c54e213b8a3ae375b7b0ef95791bcac61c71">
+        <dex dex="C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\iRemember-workspace\iRemember\build\intermediates\pre-dexed\debug\slf4j-api-1.7.5_2e9c8ad1f52bb86bbaba64ca2cd3e0d66921393e.jar" />
+    </item>
+
+</items>

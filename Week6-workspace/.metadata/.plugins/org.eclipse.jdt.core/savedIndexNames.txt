@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+C:\Users\Ruiz\GIT\Android\Programming Mobile Applications for Android Handheld Systems\Week6-workspace\.metadata\.plugins\org.eclipse.jdt.core
+7378940.index
